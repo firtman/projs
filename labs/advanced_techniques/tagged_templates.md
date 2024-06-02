@@ -8,7 +8,7 @@ function tag(strings, ...values) {
   return strings[0] + values.join('');
 }
 const value = 'world';
-const result = tag`Hello, ${world}!`;
+const result = tag`Hello, ${value}!`;
 console.log(result);
 
 
