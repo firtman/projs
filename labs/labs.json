@@ -1,0 +1,287 @@
+[
+    {
+        "chapter": "ES6 Recap",
+        "codelabs": [
+            {
+                "title": "Scoped Variables",
+                "file": "es6/scoped",
+                "fromVersion": "ES6"
+            },
+            {
+                "title": "Class Syntax",
+                "file": "es6/class_syntax",
+                "fromVersion": "ES6"
+            },  
+            {
+                "title": "Template Strings",
+                "file": "es6/template",
+                "fromVersion": "ES6"
+            },                      
+            {
+                "title": "Arrow Functions",
+                "file": "es6/arrow",
+                "fromVersion": "ES6"
+            },
+            {
+                "title": "Enhanced Object Literals",
+                "file": "es6/object",
+                "fromVersion": "ES6"
+            },    
+            {
+                "title": "Rest and Spread Operators",
+                "file": "es6/rest_spread_operators",
+                "fromVersion": "ES6"
+            },                
+            {
+                "title": "Destructuring",
+                "file": "es6/destructuring",
+                "fromVersion": "ES6"
+            },            
+            {
+                "title": "Default Values",
+                "file": "es6/default",
+                "fromVersion": "ES6"
+            }                       
+        ]
+    },
+    {
+        "chapter": "Language Enhancements",
+        "codelabs": [
+            {
+                "title": "GlobalThis",
+                "file": "language_enhancements/globalthis",
+                "fromVersion": "ES2020"
+            },
+            {
+                "title": "Trailing commas",
+                "file": "language_enhancements/trailing_commas",
+                "fromVersion": "ES2017"
+            },
+            {
+                "title": "Optional Catch Binding",
+                "file": "language_enhancements/optional_catch_binding",
+                "fromVersion": "ES2019"
+            },
+            {
+                "title": "Function toString",
+                "file": "language_enhancements/function_tostring",
+                "fromVersion": "ES2019"
+            },
+            {
+                "title": "Object Rest and Spread Operators",
+                "file": "language_enhancements/object_rest_spread_operators",
+                "fromVersion": "ES2018"
+            },
+            {
+                "title": "Operators: Nullish Coalescing",
+                "file": "language_enhancements/nullish_coalescing_operator",
+                "fromVersion": "ES2020"
+            },
+            {
+                "title": "Operators: Optional Chaining",
+                "file": "language_enhancements/optional_chaining_operator",
+                "fromVersion": "ES2020"
+            },
+            {
+                "title": "Operators: Logical Assignment",
+                "file": "language_enhancements/logical_assignment_operators",
+                "fromVersion": "ES2021"
+            },
+            {
+                "title": "Operators: Exponentiation",
+                "file": "language_enhancements/exponentiation_operator",
+                "fromVersion": "ES2016"
+            },
+            {
+                "title": "Classes: Private Variables",
+                "file": "language_enhancements/private_class_variables",
+                "fromVersion": "ES2019"
+            },
+            {
+                "title": "Classes: Fields and Private Methods",
+                "file": "language_enhancements/class_fields_methods",
+                "fromVersion": "ES2022"
+            },
+            {
+                "title": "Static Classes: Fields and Methods",
+                "file": "language_enhancements/static_class_fields_methods",
+                "fromVersion": "ES2022"
+            },
+            {
+                "title": "Static Classes: Initialization Blocks",
+                "file": "language_enhancements/class_static_initialization_blocks",
+                "fromVersion": "ES2022"
+            },
+            {
+                "title": "Object Management",
+                "file": "language_enhancements/object",
+                "fromVersion": ""
+            },
+            {
+                "title": "String methods",
+                "file": "language_enhancements/string_methods",
+                "fromVersion": "ES6"
+            },           
+            {
+                "title": "String: Padding",
+                "file": "language_enhancements/string_pad_methods",
+                "fromVersion": "ES2017"
+            },
+            {
+                "title": "String: Trimming",
+                "file": "language_enhancements/string_trim_methods",
+                "fromVersion": "ES2019"
+            },
+            {
+                "title": "String: matchAll",
+                "file": "language_enhancements/string_matchall",
+                "fromVersion": "ES2020"
+            },
+            {
+                "title": "Numbers: BigInt",
+                "file": "language_enhancements/bigint",
+                "fromVersion": "ES2020"
+            },
+            {
+                "title": "Numbers: Other Additions",
+                "file": "language_enhancements/number_methods"
+            }            
+        ]
+    },
+    {
+        "chapter": "Array and Collection Enhancements",
+        "codelabs": [
+            {
+                "title": "ES6 Recap: New Collections",
+                "file": "array_collection_enhancements/set_weakset",
+                "fromVersion": "ES6"
+            },
+            {
+                "title": "ES6 Recap: Arrays",
+                "file": "array_collection_enhancements/es6",
+                "fromVersion": "ES6"
+            },
+            {
+                "title": "ES6 Recap: Typed Arrays",
+                "file": "array_collection_enhancements/typed_arrays",
+                "fromVersion": "ES6"
+            },            
+            {
+                "title": "ES6 Recap: Iterators and for..of",
+                "file": "array_collection_enhancements/iterators_for_of"
+            },
+            {
+                "title": "ES6 Recap: Generators",
+                "file": "array_collection_enhancements/generators"
+            },
+            {
+                "title": "Array: Includes",
+                "file": "array_collection_enhancements/array_includes",
+                "fromVersion": "ES2016"
+            },
+            {
+                "title": "Array: Flat",
+                "file": "array_collection_enhancements/array_flat_flatmap",
+                "fromVersion": "ES2019"
+            },
+            {
+                "title": "Array: Finding",
+                "file": "array_collection_enhancements/array_find_methods",
+                "fromVersion": "ES6 and ES2023"
+            },
+            {
+                "title": "Array: At()",
+                "file": "array_collection_enhancements/array_at",
+                "fromVersion": "ES2022"
+            },            
+            {
+                "title": "Array: Stable Sort",
+                "file": "array_collection_enhancements/stable_sort",
+                "fromVersion": "ES2018"
+            },
+            {
+                "title": "Array: Change by Copy",
+                "file": "array_collection_enhancements/change_array_by_copy",
+                "fromVersion": "ES2023"
+            }          
+        ]
+    },
+    {
+        "chapter": "Asynchronous Programming",
+        "codelabs": [
+            {
+                "title": "ES6: Promises Recap",
+                "file": "asynchronous_programming/promises_recap",
+                "fromVersion": "ES6"
+            },
+            {
+                "title": "Async/Await Syntax",
+                "file": "asynchronous_programming/async_await",
+                "fromVersion": "ES2017"
+            },
+            {
+                "title": "Promise Improvements",
+                "file": "asynchronous_programming/promise_improvements"
+            },
+            {
+                "title": "Asynchronous Iteration",
+                "file": "asynchronous_programming/asynchronous_iteration"
+            },
+            {
+                "title": "Top-level await",
+                "file": "asynchronous_programming/top_level_await",
+                "fromVersion": "ES2022"
+            }
+        ]
+    },
+    {
+        "chapter": "Advanced Techniques",
+        "codelabs": [
+            {
+                "title": "Proper Tail Calls",
+                "file": "advanced_techniques/proper_tail_calls",
+                "fromVersion": "ES6"
+
+            },
+            {
+                "title": "Proxies and Reflect API",
+                "file": "advanced_techniques/proxies_reflect_api",
+                "fromVersion": "ES6"
+            },
+            {
+                "title": "Symbol",
+                "file": "advanced_techniques/symbol",
+                "fromVersion": "ES6"
+            },
+            {
+                "title": "Error cause",
+                "file": "advanced_techniques/error_cause",
+                "fromVersion": "ES2022"
+            },
+            {
+                "title": "Hashbang Grammar",
+                "file": "advanced_techniques/hashbang_grammar",
+                "fromVersion": "ES2020"
+            },
+            {
+                "title": "WeakRefs and FinalizationRegistry",
+                "file": "advanced_techniques/weakrefs",
+                "fromVersion": "ES2021"
+            },
+            {
+                "title": "Import Metadata",
+                "file": "advanced_techniques/import_meta",
+                "fromVersion": "ES2020"
+            },
+            {
+                "title": "Tagged Templates",
+                "file": "advanced_techniques/tagged_templates",
+                "fromVersion": "ES6"
+            },
+            {
+                "title": "Regular Expressions Enhancements",
+                "file": "advanced_techniques/regex_enhancements"
+            }
+        ]
+    }
+]

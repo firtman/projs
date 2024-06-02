@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pro JavaScript Playground</title>
+    <link rel="stylesheet" href="fonts.css">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="shortcut icon" href="favicon.png">
+    <link rel="icon" href="favicon.png">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.34.1/ace.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"  crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
+    <script src="app.js" defer></script>
+</head>    
+    
+<body>
+    <header>
+        <h1>Professional JavaScript Playground</h1>
+        <section>
+            <select id="codelab">        
+                <option value="">Load a codelab</option>
+            </select>
+            <div id="description"></div>
+        </section>
+    </header>
+    <main>
+        <div id="editor"></div>
+        <section id="toolbar">
+            <button id="run">▶️ Run</button>
+            <button id="solve" disabled>✨ Solution</button>
+            <button id="reload" disabled>🔄 Reload</button>
+            <button id="clear">🗑️ Clear</button>
+            <button id="next">⏭️ Next</button>
+        </section>
+        <pre id="output"><i>Here you will find console.log output messages or errors sent from synchronous code.</i>
+        </pre>
+    </main>
+    <footer>
+        <a href="https://frontendmasters.com/teachers/firt/" target="_blank">firt.dev workshop at Frontend Masters</a> <a href="slides.pdf" target="_blank">slides</a>
+    </footer>
+</body>
+</html>
