@@ -2,7 +2,7 @@ The Optional Chaining Operator (?.) allows for safe access to nested object prop
 
 ```js
 /*
-Use the optional chaining operator .? to safely access 
+Use the optional chaining operator ?. to safely access 
 the nested property
 */
 const users = [
